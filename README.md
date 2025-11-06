@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelaaziz SABRI  
 
-<!--
-**sabri-abdelaaziz/sabri-abdelaaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Science & AI Enthusiast | Applied Machine Learning | Deep Learning | NLP | Computer Vision**  
 
-Here are some ideas to get you started:
+I'm a passionate **Data Scientist & AI Engineer** currently pursuing a **Master’s degree in Data Analytics & Artificial Intelligence** at the *Faculty of Sciences, Agadir (Centre d’Excellence IT)*.  
+I love turning data into insights and intelligent systems — from data collection and preprocessing to model deployment.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My focus areas:  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP) & LLMs  
+- Computer Vision  
+- MLOps & Model Deployment  
+- Data Analytics & Visualization  
+
+---
+
+## 🧠 Projects Highlights  
+
+- 🧍‍♂️ **[Toxic Darija Text Classifier](https://github.com/sabri-abdelaaziz/OffensiveSpeechDetector)**  
+  Fine-tuned **BERT** and **AraBERT** models to detect offensive language in Moroccan Arabic (Darija) using Hugging Face Transformers and Django.  
+
+- 👕 **[AI-Based Fashion Classifier](https://github.com/sabri-abdelaaziz/FashionClassifier)**  
+  Built a CNN-based model for visual search and clothing classification using TensorFlow and Flask.  
+
+- 😷 **[Face Blurring App](https://github.com/sabri-abdelaaziz/face-blur)**  
+  Real-time face detection and selective blurring app using OpenCV and TensorFlow Lite — privacy-preserving AI for web applications.  
+
+---
+
+## ⚙️ Tech Stack  
+
+**Languages:** Python, Java, SQL, Kotlin, MATLAB  
+**Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Django, Flask  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Cloud & Deployment:** Docker, Kubernetes, AWS, Azure  
+**Other:** Git, REST APIs, IoT Integration  
+
+---
+
+## 🎓 Education  
+
+🎓 **Master’s Degree (Ongoing)** — *Data Analytics & Artificial Intelligence*  
+📍 *Faculty of Sciences, Agadir (Centre d’Excellence IT)* — 2024–2026  
+
+🎓 **Bachelor’s Degree** — *Data Analytics & Artificial Intelligence*  
+📍 *Faculty of Sciences,*
