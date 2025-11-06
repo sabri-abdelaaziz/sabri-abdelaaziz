@@ -43,4 +43,19 @@ I love turning data into insights and intelligent systems — from data collecti
 📍 *Faculty of Sciences, Agadir (Centre d’Excellence IT)* — 2024–2026  
 
 🎓 **Bachelor’s Degree** — *Data Analytics & Artificial Intelligence*  
-📍 *Faculty of Sciences,*
+📍 *Faculty of Sciences, Agadir* — 2023–2024  
+
+🎓 **University Diploma (DUT)** — *Business Intelligence & Data Science*  
+📍 *Higher School of Technology, Essaouira* — 2021–2023  
+
+---
+
+## 📫 Let's Connect  
+
+🌐 [Portfolio](https://sabri-abdelaaziz.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/sabriabdelaaziz)  
+📧 **azizsabri072@gmail.com**
+
+---
+
+⭐ *“Building intelligent systems that make data meaningful.”*  
